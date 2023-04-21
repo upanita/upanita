@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @upanita
-- 👀 I’m interested in frontend development
+- 👀 I’m interested in web development
 - 📫 Reach me @mahalaupanita12@gmail.com or @8118042124
 
 <!---
